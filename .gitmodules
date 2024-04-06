@@ -1,6 +1,8 @@
 [submodule "eins"]
 	path = eins
 	url = https://github.com/Veector40/eins.git
+	branch = main
 [submodule "zwei"]
 	path = zwei
 	url = https://github.com/Veector40/zwei.git
+	branch = main
